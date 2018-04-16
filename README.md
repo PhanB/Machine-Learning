@@ -6,7 +6,7 @@
 ## Goal
 To classify handwritten digits with a neural network based on a multilayer perceptron.
 
-![MNIST dataset Example](/images/logo.png)
+![MNIST dataset Example](/images/mnistExamples.png)
 
 ## Results
 
